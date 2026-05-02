@@ -1,0 +1,24 @@
+# Core FastAPI Framework
+fastapi==0.109.0
+uvicorn==0.27.0
+gunicorn==21.2.0
+
+# Data Processing & Analysis
+pandas==2.2.0
+numpy==1.26.3
+
+# Machine Learning
+scikit-learn==1.4.0
+
+# Monitoring & ML Operations
+mlflow==2.10.0
+
+# Data Validation
+pydantic==2.6.0
+
+# Cloud Infrastructure (AWS EC2 Integration)
+boto3==1.34.0
+
+# Utilities
+python-dotenv==1.0.1
+httpx==0.26.0
